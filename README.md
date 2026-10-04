@@ -24,15 +24,25 @@ Está em produção, com site institucional, portal público, painel das empresa
 
 ## Prévias de algumas partes
 
-<img src="assets/desktop-inicio.jpg" alt="Tela inicial do site: “Canal de denúncias, relatos corporativos e apoio à gestão da NR-1”, com uma prévia animada do painel administrativo" width="100%">
+<img src="assets/desktop-inicio.jpg" alt="Tela inicial do site: “Canal de denúncias, relatos corporativos e apoio à gestão da NR-1”, com o megafone 3D da marca e os números sobre violência e assédio no trabalho" width="100%">
 
 ### Landing page pública de apresentação
 
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/desktop-como-funciona.jpg" alt="Seção Como funciona com as quatro etapas do relato">
-      <p align="center"><b>Como funciona</b><br><sub>Do primeiro relato ao encerramento, com progresso que acompanha a rolagem</sub></p>
+      <img src="assets/desktop-legislacao.jpg" alt="Cards com Lei 14.457/2022, NR-1, NR-28, LGPD, Decreto 11.129/2022 e Código Civil">
+      <p align="center"><b>Base legal</b><br><sub>As normas que tornam o canal necessário, com links para as fontes oficiais</sub></p>
+    </td>
+    <td width="50%">
+      <img src="assets/desktop-comparativo.jpg" alt="Comparativo entre o cenário sem o IntegraSig, com improviso e e-mail, e com o canal estruturado">
+      <p align="center"><b>Do caos à governança</b><br><sub>Improviso contra canal estruturado, com ícones animados e cards que inclinam com o cursor</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/desktop-como-funciona.jpg" alt="Seção Como funciona em 3D, com a etapa Registro do relato em destaque">
+      <p align="center"><b>Como funciona</b><br><sub>Percurso em 3D guiado pela rolagem, do primeiro relato ao encerramento</sub></p>
     </td>
     <td width="50%">
       <img src="assets/desktop-recursos.jpg" alt="Seção de recursos com diagrama animado e cards">
@@ -41,12 +51,12 @@ Está em produção, com site institucional, portal público, painel das empresa
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/desktop-legislacao.jpg" alt="Cards com Lei 14.457/2022, NR-1, NR-28, LGPD, Decreto 11.129/2022 e Código Civil">
-      <p align="center"><b>Base legal</b><br><sub>As normas que tornam o canal necessário, com links para as fontes oficiais</sub></p>
+      <img src="assets/desktop-nr1.jpg" alt="Seção NR-1 com radar animado dos fatores psicossociais e as três etapas de apoio à gestão de riscos">
+      <p align="center"><b>Módulo NR-1</b><br><sub>Radar dos fatores psicossociais e as etapas de apoio ao GRO</sub></p>
     </td>
     <td width="50%">
-      <img src="assets/desktop-nr1.jpg" alt="Seção NR-1 com o questionário e os indicadores agregados">
-      <p align="center"><b>Módulo NR-1</b><br><sub>Coleta sem identificação e indicadores agregados para o GRO</sub></p>
+      <img src="assets/desktop-nr1-3d.jpg" alt="Cena 3D com o questionário no celular enviando respostas anônimas para o conjunto agregado">
+      <p align="center"><b>Coleta NR-1 em 3D</b><br><sub>Cada resposta vira um dado anônimo no conjunto agregado, sem login, nome, CPF ou e-mail</sub></p>
     </td>
   </tr>
   <tr>
@@ -91,8 +101,8 @@ Está em produção, com site institucional, portal público, painel das empresa
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/desktop-login.jpg" alt="Tela de login do painel administrativo">
-      <p align="center"><b>Acesso administrativo</b><br><sub>Login, primeiro acesso com troca de senha e recuperação por código</sub></p>
+      <img src="assets/desktop-login.jpg" alt="Tela de login do painel administrativo com painel animado da operação ao lado do formulário">
+      <p align="center"><b>Acesso administrativo</b><br><sub>Login com painel animado da operação, primeiro acesso com troca de senha e recuperação por código</sub></p>
     </td>
     <td width="50%">
       <img src="assets/painel-dashboard.jpg" alt="Dashboard com denúncias por status e por categoria">
@@ -145,7 +155,7 @@ Notas internas e o histórico administrativo nunca saem do painel. O denunciante
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=cssmodules&logoColor=white)](https://github.com/css-modules/css-modules)
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=cssmodules&logoColor=white)](https://github.com/css-modules/css-modules) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
 
 [![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
 
@@ -157,7 +167,7 @@ Notas internas e o histórico administrativo nunca saem do painel. O denunciante
 | --- | --- |
 | Frontend | Next.js 16 (App Router), React 19 e TypeScript |
 | Estilos | CSS Modules com tokens próprios, sem frameworks de CSS |
-| Animações | CSS puro (keyframes e transições) e IntersectionObserver |
+| Animações | CSS (keyframes e transições), IntersectionObserver e Three.js para as cenas 3D |
 | Backend | NestJS 11 com TypeScript, class-validator e documentação Swagger/OpenAPI |
 | Banco de dados | PostgreSQL 16 com Prisma ORM e migrations versionadas |
 | Autenticação | JWT em cookies HTTP-only, refresh token rotativo e CSRF |
@@ -262,14 +272,13 @@ Relatos podem conter dados pessoais e sensíveis, então a segurança foi tratad
 - **Logo**: escudo com cadeado, cercado de pessoas, checklist e indicadores, com o lema "Tecnologia · Ética · Conformidade". No site, o megafone roxo funciona como ícone da marca.
 - **Cores**: roxo como cor de ação, do violeta ao índigo em gradiente, sobre fundos claros e cards brancos. As seções de segurança e planos usam um roxo quase preto para dar peso institucional.
 - **Tipografia**: Manrope nos títulos e Inter nos textos e na interface.
-- **Movimento**: revelação ao rolar, contadores animados, profundidade 3D que segue o cursor e diagramas animados, tudo em CSS e TypeScript sem bibliotecas de animação e respeitando a preferência "reduzir movimento".
+- **Movimento**: revelação ao rolar, contadores animados, cenas 3D em Three.js (carregadas sob demanda e pausadas fora da tela), profundidade que segue o cursor e diagramas animados, respeitando a preferência "reduzir movimento".
 - **White-label**: no canal público, logo, cores, banner e fonte passam a ser os da empresa cliente.
 
 <br>
 
 ## Código-fonte
 
-> [!NOTE]
 > O código-fonte deste projeto é **privado**. Este repositório serve apenas como apresentação do trabalho.
 
 <br>
