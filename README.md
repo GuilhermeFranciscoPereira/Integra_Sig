@@ -4,7 +4,7 @@
 
 **Canal de denúncias, relatos corporativos e apoio à gestão da NR-1**
 
-> Visite a landing page: [IntegraSig - Canal de denúncias e NR-1](https://integrasig.com.br/landing-page)
+> Visite a landing page: <a href="https://integrasig.com.br/landing-page" target="_blank" rel="noopener noreferrer">IntegraSig - Canal de denúncias e NR-1</a>
 
 </div>
 
@@ -125,7 +125,7 @@ Está em produção, com site institucional, portal público, painel das empresa
 
 O canal precisa funcionar onde a pessoa estiver, muitas vezes pelo celular, a partir de um QR Code no mural da empresa. Todas as telas foram pensadas para a tela pequena.
 
-<img src="assets/mobile.jpg" alt="Quatro telas da versão mobile: site institucional, canal público, formulário de relato e acompanhamento" width="100%">
+<img src="assets/mobile-telas.jpg" alt="Quatro telas da versão mobile do site: início, base legal, recursos e segurança e privacidade" width="100%">
 
 <br>
 
@@ -155,11 +155,11 @@ Notas internas e o histórico administrativo nunca saem do painel. O denunciante
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=cssmodules&logoColor=white)](https://github.com/css-modules/css-modules) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
+<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React"></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"></a> <a href="https://github.com/css-modules/css-modules" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&amp;logo=cssmodules&amp;logoColor=white" alt="CSS Modules"></a> <a href="https://threejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=white" alt="Three.js"></a>
 
-[![NestJS](https://img.shields.io/badge/NestJS_11-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com) [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+<a href="https://nestjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NestJS_11-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS"></a> <a href="https://www.prisma.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma"></a> <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"></a> <a href="https://swagger.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=black" alt="Swagger"></a>
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)](https://caddyserver.com) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)](https://www.mercadopago.com.br)
+<a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></a> <a href="https://caddyserver.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&amp;logo=caddy&amp;logoColor=white" alt="Caddy"></a> <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"></a> <a href="https://www.mercadopago.com.br" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&amp;logo=mercadopago&amp;logoColor=white" alt="Mercado Pago"></a>
 
 </div>
 
@@ -279,6 +279,7 @@ Relatos podem conter dados pessoais e sensíveis, então a segurança foi tratad
 
 ## Código-fonte
 
+> [!NOTE]
 > O código-fonte deste projeto é **privado**. Este repositório serve apenas como apresentação do trabalho.
 
 <br>
